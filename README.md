@@ -17,4 +17,4 @@ This repository provides simple codes to remove spurious bright sources with Mee
 - Submit mainbash.sh to complete the subtraction
 
 # Contact details
-If case of any bugs, or you would like to contribute in improving the scripts, please contact me to my email (andrianjafyjuliocsar@yahoo.fr).
+If case of any bugs, more information request, or you would like to contribute in improving the scripts, feel free to email me (andrianjafyjuliocsar@yahoo.fr).
