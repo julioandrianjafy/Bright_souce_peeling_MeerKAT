@@ -7,7 +7,7 @@ This repository provides simple codes to remove spurious bright sources with Mee
 - [Ilifu cloud](https://docs.ilifu.ac.za/#/): For now, the codes could only be run by submitting jobs to the ilifu cluster.  
 - Python version > 3.6
 - [CASA version > 6.0](https://casa.nrao.edu/casa_obtaining.shtml)
-- [WSclean version > 1.6.3](https://wsclean.readthedocs.io/en/latest/)
+- [WSClean version > 1.6.3](https://wsclean.readthedocs.io/en/latest/)
 
 # Running the scripts 
 - Configure parameters in setup.py 
