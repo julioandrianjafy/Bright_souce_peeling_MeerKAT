@@ -1,7 +1,8 @@
 # script to mask the model image
 # the bs position needs to be set manually (This can be automated from setup.py in future)
 # Julio Cesar Andrianjafy (andrianjafyjuliocsar@yahoo.fr)
-# University of Mauritius, ThunderKAT team (http://www.thunderkat.uct.ac.za/), DARA advanced student (https://www.dara-project.org/julio-cesar-andrianjafy)
+# Affiliations: University of Mauritius, ThunderKAT team (http://www.thunderkat.uct.ac.za/) 
+#    and DARA advanced student (https://www.dara-project.org/julio-cesar-andrianjafy)
 
 import sys
 from astropy.io import fits
