@@ -1,7 +1,7 @@
 # casa6 tasks
 # Julio Cesar Andrianjafy (andrianjafyjuliocsar@yahoo.fr)
 # Affiliations: University of Mauritius, ThunderKAT team (http://www.thunderkat.uct.ac.za/) 
-    and DARA advanced student (https://www.dara-project.org/julio-cesar-andrianjafy)
+#    and DARA advanced student (https://www.dara-project.org/julio-cesar-andrianjafy)
 
 # load modules
 import casatasks as ct
