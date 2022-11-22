@@ -1,6 +1,7 @@
 # function to generate jobs to ilifu cluster
 # Julio Cesar Andrianjafy (andrianjafyjuliocsar@yahoo.fr)
-# University of Mauritius, ThunderKAT team (http://www.thunderkat.uct.ac.za/), DARA advanced student (https://www.dara-project.org/julio-cesar-andrianjafy)
+# Affiliations: University of Mauritius, ThunderKAT team (http://www.thunderkat.uct.ac.za/) 
+#    and DARA advanced student (https://www.dara-project.org/julio-cesar-andrianjafy)
 
 # import modules
 import setup
