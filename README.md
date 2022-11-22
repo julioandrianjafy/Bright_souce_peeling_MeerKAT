@@ -13,7 +13,7 @@ This repository provides simple codes to remove spurious bright sources with Mee
 - Configure parameters in setup.py 
 - For the present moment, the bright source position (image coordinates) needs to be specified manually in the make_mask.py and make_mask_inv.py
 - Run process.py in python: this will create bash files (peel*.sh and mainbash.sh).
-- Submit all peel*.sh (this depends on how many sub frequency channels you want to subtract the BS independently) to ilifu cluster
+- Submit all peel*.sh (The number of peel*.sh depends on how many sub frequency channels you want to subtract the BS independently in setup.py) to ilifu cluster
 - Submit mainbash.sh to complete the subtraction
 
 # Contact details
